@@ -19,7 +19,7 @@ Opera, and Safari.
 
 * Open the file `index.html` in the Internet browser of your choice
 * Press `Enter` to start the game
-* Use the arrow kys to control your character
+* Use the arrow keys to control your character
 * Avoid spikey walls and pick up keys to open doors!
 
 ## Contributions
